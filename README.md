@@ -12,7 +12,7 @@ Hi. This is just a small program.
 <p>
   <ol>
     <li>Execute the program on a console (Obviously, having Python 3.8+ installed)</li>
-    <li>Put the path to the folder you want to rename the files (.jpg, .jpeg, .png).</li>
+    <li>Put the path to the <strong>folder</strong> (not an individual image) you want to rename the files (The images have to be .jpg, .jpeg, .png).</li>
     <li>Enter, and the program will start renaming the files.</li>
   </ol>
 </p>
